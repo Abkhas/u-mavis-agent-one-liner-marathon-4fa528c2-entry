@@ -9,8 +9,9 @@ outside this repository, no randomness.
 import os
 import sys
 
-LINE = ("I muted the family group chat for one weekend and came back to 400 "
-        "messages, a funeral, a wedding, and a cousin I apparently owe money to.")
+LINE = ("At my brother's wedding I was asked to say a few words, so I said "
+        "\"I object\" — the silence was the first time the whole family ever "
+        "agreed on anything.")
 
 MAX_CHARS = 280
 
