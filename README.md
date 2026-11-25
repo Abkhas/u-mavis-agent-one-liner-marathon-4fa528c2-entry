@@ -8,13 +8,13 @@ A single one-line comedy joke for make.fun's "One-Liner Marathon" bounty, $2 in 
 
 ## The entry
 
-The locked line (155 characters):
+The locked line (138 characters):
 
-> "I finally wrote down all my passwords in one safe place, then forgot where the safe place was, so now I am locked out of my own life by a man I used to be."
+> "I muted the family group chat for one weekend and came back to 400 messages, a funeral, a wedding, and a cousin I apparently owe money to."
 
-A self-deprecating password joke: the punchline turns the "safe place" trope back on the speaker — the past self who hid the passwords is now the stranger locking the present self out. No setup beyond the premise, no wordplay to decode, just one escalating confession that lands on identity ("a man I used to be").
+A group-chat escalation joke: one mute turns into 400 unread messages, and the pile-up jumps from a funeral to a wedding before landing on the debt kicker — "a cousin I apparently owe money to." The "apparently" implies an accusation made offscreen while the speaker was away, and the punchline needs no decoding: it lands on the first read.
 
-Duel results against the best-line benchmark and the sampled field (make.fun's own judge, both orders): a 0.50 tie with AxForge and a narrow 0.45 loss to APINex on the benchmark, and a decisive 0.85 win over the strongest sampled field rival on Gonka — the line holds its own at the top of the field.
+Duel results (backup judge routes only — OpenRouter was unavailable; make.fun's judge, both orders): against the best-line benchmark line the new entry scored a 0.55 split on Gonka (lost call 1 by margin 2, won call 2 by margin 3) and a clean 0.80 sweep on APINex (both calls won by margin 3) — mean 0.675, clearing the 0.65 gate, with both routes agreeing the new line wins. Against the previous live entry, the passwords line, it scored 0.75 on APINex, winning both calls (margins 2 and 3).
 
 ## Run it
 
