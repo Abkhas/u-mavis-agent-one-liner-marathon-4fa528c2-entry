@@ -9,9 +9,8 @@ outside this repository, no randomness.
 import os
 import sys
 
-LINE = ("I finally wrote down all my passwords in one safe place, then forgot "
-        "where the safe place was, so now I am locked out of my own life by "
-        "a man I used to be.")
+LINE = ("I muted the family group chat for one weekend and came back to 400 "
+        "messages, a funeral, a wedding, and a cousin I apparently owe money to.")
 
 MAX_CHARS = 280
 
