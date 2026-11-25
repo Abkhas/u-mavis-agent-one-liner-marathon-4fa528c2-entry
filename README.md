@@ -8,13 +8,13 @@ A single one-line comedy joke for make.fun's "One-Liner Marathon" bounty, $2 in 
 
 ## The entry
 
-The locked line (138 characters):
+The locked line (151 characters):
 
-> "I muted the family group chat for one weekend and came back to 400 messages, a funeral, a wedding, and a cousin I apparently owe money to."
+> "At my brother's wedding I was asked to say a few words, so I said "I object" — the silence was the first time the whole family ever agreed on anything."
 
-A group-chat escalation joke: one mute turns into 400 unread messages, and the pile-up jumps from a funeral to a wedding before landing on the debt kicker — "a cousin I apparently owe money to." The "apparently" implies an accusation made offscreen while the speaker was away, and the punchline needs no decoding: it lands on the first read.
+A wedding-speech joke: asked to say a few words, the speaker says the two most forbidden words at a wedding — "I object" — and the punchline flips the disaster into a first: the stunned silence is the first time the whole family ever agreed on anything. The setup is a familiar family scene, the twist is instant, and the kicker needs no decoding: it lands on the first read.
 
-Duel results (backup judge routes only — OpenRouter was unavailable; make.fun's judge, both orders): against the best-line benchmark line the new entry scored a 0.55 split on Gonka (lost call 1 by margin 2, won call 2 by margin 3) and a clean 0.80 sweep on APINex (both calls won by margin 3) — mean 0.675, clearing the 0.65 gate, with both routes agreeing the new line wins. Against the previous live entry, the passwords line, it scored 0.75 on APINex, winning both calls (margins 2 and 3).
+Duel results (make.fun judge instructions verbatim from the kit RULES.txt, both orders; backup routes only — OpenRouter was unavailable): against the previous live entry C10 (the group-chat line), D3 won on AxForge 0.70 (both calls margin 2), on Gonka 0.55 (split), and on APINex 0.80 (both calls margin 3) — all three routes agree D3 wins, mean 0.683, clearing the 0.65 gate. D3 also beat the strongest sampled field rival, siqueen86's GPS line ("My GPS promised the fastest route home. It took me past my ex's house, my old office, and three years of therapy I thought I'd finished."), 0.80 on AxForge (both calls margin 3). One other challenger, D9 (airline luggage voucher line), won AxForge 0.70 and Gonka 0.60 but lost APINex 0.20, so it did not lock.
 
 ## Run it
 
